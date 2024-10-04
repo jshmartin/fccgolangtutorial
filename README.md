@@ -1,0 +1,2 @@
+# fccgolangtutorial
+ learning about golang
